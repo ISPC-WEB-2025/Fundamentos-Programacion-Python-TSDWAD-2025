@@ -1,0 +1,10 @@
+# Enforce Unix-style (LF) line endings for common text files
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+# Treat certain files as binary to prevent line ending conversion
+*.png binary
+*.jpg binary
+*.pdf binary
