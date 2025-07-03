@@ -4,8 +4,7 @@ Este repositorio contiene los materiales teóricos, resúmenes, ejemplos y prác
 
 Puedes abrir el notebook principal directamente en Google Colab aquí:
 
-[Abrir en Google Colab](ISPC-WEB-2025/Fundamentos-Programacion-Python-TSDWAD-2025/tree/developer/Unidad%201%20-%20Introduccion%20a%20Python/01_Introduccion_a_Python_Fundamentos.ipynb)
-
+[Abrir en Google Colab](https://colab.research.google.com/github/ISPC-WEB-2025/Fundamentos-Programacion-Python-TSDWAD-2025/blob/developer/Unidad%201%20-%20Introduccion%20a%20Python/01_Introduccion_a_Python_Fundamentos.ipynb)
 
 **Docente:** Ivana Soledad Rojas Córsico.
 
