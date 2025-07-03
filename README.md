@@ -2,9 +2,13 @@
 
 Este repositorio contiene los materiales teóricos, resúmenes, ejemplos y prácticas desarrolladas para la materia **Introducción a la Programación** de la carrera **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (TSDWAD)** del Instituto Superior Politécnico Córdoba (ISPC), correspondiente al primer cuatrimestre de 2025.
 
-Puedes abrir el notebook principal directamente en Google Colab aquí:
+---
 
-[Abrir en Google Colab](https://colab.research.google.com/github/ISPC-WEB-2025/Fundamentos-Programacion-Python-TSDWAD-2025/blob/developer/Unidad%201%20-%20Introduccion%20a%20Python/01_Introduccion_a_Python_Fundamentos.ipynb)
+## 👉 ¡Comienza a aprender Python Interactivamente en Google Colab!
+
+Haz clic en el botón para abrir el **Índice General** de la guía en Google Colab. Desde allí, podrás navegar por todas las unidades y capítulos. (modificar link cuando esté en main)
+
+[Abrir en Google Colab](https://colab.research.google.com/github/ISPC-WEB-2025/Fundamentos-Programacion-Python-TSDWAD-2025/blob/developer/00_Indice_General_Guia_Python.ipynb)
 
 **Docente:** Ivana Soledad Rojas Córsico.
 
