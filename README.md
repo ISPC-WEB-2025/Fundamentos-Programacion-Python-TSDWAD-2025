@@ -8,7 +8,7 @@ Este repositorio contiene los materiales teóricos, resúmenes, ejemplos y prác
 
 Haz clic en el botón para abrir el **Índice General** de la guía en Google Colab. Desde allí, podrás navegar por todas las unidades y capítulos. (modificar link cuando esté en main)
 
-[Abrir en Google Colab](https://colab.research.google.com/github/ISPC-WEB-2025/Fundamentos-Programacion-Python-TSDWAD-2025/blob/developer/00_Indice_General_Guia_Python.ipynb)
+[Abrir en Google Colab](https://colab.research.google.com/github/ISPC-WEB-2025/Fundamentos-Programacion-Python-TSDWAD-2025/blob/main/00_Indice_General_Guia_Python.ipynb)
 
 **Docente:** Ivana Soledad Rojas Córsico.
 
