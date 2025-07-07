@@ -49,11 +49,11 @@ Los contenidos se organizan de la siguiente manera, y la mayoría de los materia
 * **Introducción a POO:** Definición y técnicas de relevamiento.
 * **Clases y Objetos:** Conceptos, atributos y métodos, estado y comportamiento.
 * **Fundamentos de POO:**
-    * **Abstracción**
-    * **Modulación**
-    * **Encapsulamiento**
-    * **Jerarquía:** Herencia, agregación y composición.
-    * **Polimorfismo**
+  * **Abstracción**
+  * **Modulación**
+  * **Encapsulamiento**
+  * **Jerarquía:** Herencia, agregación y composición.
+  * **Polimorfismo**
 * **Estructura de una Clase:** Variables de instancia, métodos de acceso y modificación, constructores.
 * **Documentación de Clases y Métodos.**
 * **Constantes y Variables de Clase.**
@@ -64,7 +64,3 @@ Los contenidos se organizan de la siguiente manera, y la mayoría de los materia
 
 * Errores comunes en la programación.
 * Herramientas y técnicas básicas de depuración.
-
-## 📁 Estructura del Repositorio
-
-Se sugiere la siguiente estructura de carpetas para organizar los contenidos:
