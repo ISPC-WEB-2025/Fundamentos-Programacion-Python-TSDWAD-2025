@@ -8,8 +8,6 @@ Este documento es una guía para el equipo sobre la organización del repositori
 
 La siguiente estructura de carpetas se propone para organizar de manera lógica y modular todo el material de la materia. Esta sigue el programa de estudios y facilita la navegación.
 
-```
-
 Fundamentos-Programacion-Python-TSDWAD-2025/
 ├── Unidad 1 - Introduccion a Python/
 │   ├── 01\_Introduccion\_a\_Python\_Fundamentos.ipynb  \# Notebook de ejemplo para el primer tema
@@ -37,8 +35,6 @@ Fundamentos-Programacion-Python-TSDWAD-2025/
 │   └── ejercicios/
 ├── README.md                                       \# Archivo README principal del repositorio
 └── .gitignore                                      \# Configuración para ignorar archivos no deseados por Git
-
-````
 
 ### Explicación de la Estructura:
 
